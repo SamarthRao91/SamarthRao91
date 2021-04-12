@@ -1,7 +1,6 @@
 ### Hi there, my name is Samarth.👋
-I am currently a High School Student learning Java in AP Computer Science. 
+I am a High School Student learning Java in AP Computer Science aspiring to be a devolper, enthusiastic about programming and software development.
 
-- 🔭 I’m currently working on Assignments for AP Comp Sci
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: - raosamarth91@gmail.com
 
