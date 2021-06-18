@@ -1,5 +1,5 @@
 ### Hi there, my name is Samarth.👋
-I am a High School Student learning Java in AP Computer Science aspiring to be a devolper, enthusiastic about programming and software development.
+
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: - raosamarth91@gmail.com
