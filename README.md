@@ -1,7 +1,7 @@
 ### Hi there, my name is Samarth.👋
 
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: - raosamarth91@gmail.com
 
 
